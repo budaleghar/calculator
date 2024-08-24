@@ -1,0 +1,67 @@
+.alldiv{
+  text-align: center;
+ 
+
+}
+input {
+    background-color: rgb(235, 227, 230);
+    height: 21px;
+    border-radius: 5px 5px 5px 5px;
+    
+}
+.type {
+    
+    margin-bottom: 5px;
+ 
+}
+.box1 button {
+    height: 25px;
+    width: 40px;
+    display: inline;
+    margin-bottom: 5px;
+    background-color: rgba(9, 25, 33, 0.92);
+    color:white;
+   
+
+}
+.box2 button {
+    height: 25px;
+    width: 40px;
+    display: inline;
+        margin-bottom: 5px;
+        background-color: rgba(9, 25, 33, 0.92);
+        color:white;
+   
+
+}
+.box3 button {
+    height: 25px;
+    width: 40px;
+    display: inline;
+        margin-bottom: 5px;
+        background-color: rgba(9, 25, 33, 0.92);
+        color:white;
+
+}
+.box4 button {
+    height: 25px;
+    width: 40px;
+    display: inline;
+        margin-bottom: 5px;
+        background-color: rgba(9, 25, 33, 0.92);
+        color:white;
+
+}
+.box5 button {
+    height: 25px;
+    width: 55px;
+    display: inline;
+        margin-bottom: 5px;
+        background-color: rgba(9, 25, 33, 0.92);
+        color:white;
+
+}
+
+.button{
+    border-radius: 7px  7px  7px  7px ;
+}
